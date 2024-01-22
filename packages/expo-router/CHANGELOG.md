@@ -12,7 +12,7 @@
 ### 🐛 Bug fixes
 
 - Remove error hiding system. ([#26607](https://github.com/expo/expo/pull/26607) by [@EvanBacon](https://github.com/EvanBacon))
-- Update typed route generation
+- Update typed route generation ([#26578](https://github.com/expo/expo/pull/26578) by [@marklawlor](https://github.com/marklawlor))
 
 ### 💡 Others
 
